@@ -4,10 +4,12 @@
 
 - 👋 Hi, I’m @sunjae-p
 - 👀 I’m interested in Data Science & Artificial Intelligence.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Biomedical Sciences.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- Medicine & Healthcare
+- Research Area: Medicine & Healthcare
+
+SPSS, STATA, SAS, R, PYTHON, HTML, CSS
 
 <!---
 sunjae-p/sunjae-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
