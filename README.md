@@ -11,6 +11,8 @@
 
 SPSS, STATA, SAS, R, PYTHON, HTML, CSS
 
+Explainable AI(XAI), Tabular data, Time-series data analysis, Prediction model, Real-time analysis, Reinforcement learning, NLP
+
 <!---
 sunjae-p/sunjae-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
